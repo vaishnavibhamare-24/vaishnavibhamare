@@ -101,7 +101,7 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavibhamare&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavibhamare&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=0" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavibhamare&theme=tokyonight" height="160"/>
 </p>
 
