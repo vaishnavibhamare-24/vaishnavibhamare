@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=250&section=header&text=Vaishnavi%20Govind%20Bhamare&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Actionable+Insights;Actively+seeking+Summer+2026+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+BI+Engineer+%7C+AI%2FML+Enthusiast;Building+Data-Driven+Solutions;Open+to+Full-Time+Roles+in+Data+%26+AI" />
 </p>
 
 ---
@@ -115,14 +115,18 @@
 
 ---
 
-## 🎯 Core Strengths   
+## 🎯 Core Strengths 
+----
 
-✔️ End-to-End Data Analytics (Data Cleaning → EDA → Insights → Reporting)  
-✔️ Business Intelligence & KPI Strategy (Dashboarding, Metrics, Decision Support)  
-✔️ SQL & Data Engineering (ETL Pipelines, Query Optimization, Data Modeling)  
-✔️ Applied Machine Learning & Analytical Modeling (Prediction, Pattern Analysis)  
-✔️ Generative AI & Intelligent Systems (LLM Concepts, RAG, AI Agents)  
-✔️ Data-Driven Problem Solving & Stakeholder Communication  
+## 🎯 Core Strengths  
+
+- End-to-End Data Analytics (Data Cleaning → EDA → Insights → Reporting)  
+- Business Intelligence & KPI Strategy (Dashboarding, Metrics, Decision Support)  
+- SQL & Data Engineering (ETL Pipelines, Query Optimization, Data Modeling)  
+- Applied Machine Learning & Analytical Modeling (Prediction, Pattern Analysis)  
+- Generative AI & Intelligent Systems (LLM Concepts, RAG, AI Agents)  
+- Data-Driven Problem Solving & Stakeholder Communication
+- 
 ---
 
 ## 💡 Fun Touch  
