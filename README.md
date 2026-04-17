@@ -22,6 +22,52 @@
 📍 Texas, USA | Open to relocation  
 
 ---
+---
+
+## 💼 Experience  
+
+### 🔹 Research Assistant  
+**University of North Texas, Texas, USA**  
+📅 Jan 2025 – Present  
+- Analyzed large-scale simulation datasets to evaluate system performance, identify inefficiencies, and deliver actionable insights for data-driven decision-making  
+- Built and optimized SQL queries and Python workflows for data extraction, transformation, and validation across multi-source datasets  
+- Defined KPIs and collaborated with stakeholders to translate business requirements into analytical solutions  
+
+---
+
+### 🔹 Teaching Assistant  
+**University of North Texas, Texas, USA**  
+📅 Aug 2024 – Present  
+- Assisted in teaching and mentoring students in data analytics concepts and tools  
+- Supported assignment design, grading, and student queries to improve learning outcomes  
+- Guided students in applying analytics techniques to real-world problems  
+
+---
+
+### 🔹 Data Analyst  
+**Capgemini, India**  
+📅 Aug 2023 – Jul 2024  
+- Delivered insight-driven analysis on 120K+ records, improving decision turnaround time by 25%  
+- Designed Power BI dashboards with drill-through and KPI tracking, reducing reporting dependency by 35%  
+- Optimized SQL queries and improved data retrieval performance by 30%  
+
+---
+
+### 🔹 Data Analytics Intern  
+**Tata Power, India**  
+📅 Feb 2023 – Jul 2023  
+- Built automated data pipelines using Python and SQL, improving processing speed by 60%  
+- Applied anomaly detection techniques for early issue identification in energy systems  
+- Conducted statistical analysis for predictive maintenance and load optimization  
+
+---
+
+### 🔹 Analytics Intern  
+**Center of Excellence Lab, VJTI, India**  
+📅 May 2022 – Jan 2023  
+- Processed and analyzed 100K+ power grid simulation records for trend and scenario analysis  
+- Supported model evaluation to assess outage risk and performance patterns  
+- Improved preprocessing workflows, increasing analysis efficiency by 40%  
 
 ## 🔗 Connect With Me  
 
