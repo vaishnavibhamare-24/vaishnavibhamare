@@ -8,7 +8,9 @@
 
 ---
 
-## 👋 Hi, I'm Vaishnavi  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Vaishnavi;Data+Analyst;Business+Intelligence+Engineer;Data+Engineer;AI%2FML+Engineer&color=00C9FF,FF5733,28B463,8E44AD,F1C40F" />
+</p>
 
 🎓 MS in Advanced Data Analytics @ University of North Texas (GPA: 4.0)  
 📊 Data Analyst | 📈 Business Intelligence | 🤖 AI/ML Enthusiast  
