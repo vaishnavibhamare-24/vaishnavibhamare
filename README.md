@@ -42,7 +42,7 @@
 
 ---
 
-### 🔹 Data Analyst  
+### 🔹 Business Intelligence Engineer  
 **Capgemini, India**  
 📅 Aug 2023 – Jul 2024  
 - Analyzed 120K+ records → improved decision turnaround by 25%  
@@ -60,8 +60,8 @@
 
 ---
 
-### 🔹 Analytics Intern  
-**COE Lab, VJTI, India**  
+### 🔹 Data Analytics Engineering Intern 
+**Center of Excellence Lab, VJTI, India**  
 📅 May 2022 – Jan 2023  
 - Processed 100K+ simulation records for trend analysis  
 - Supported forecasting and model evaluation  
@@ -141,7 +141,7 @@
 
 ## 🏆 Achievements  
 
-🏅 Phi Kappa Phi – Academic Excellence Award (Top 10%)
+🏅 Phi Kappa Phi – Academic Excellence Award (Top 10% of Graduate Students)
 
 ---
 
