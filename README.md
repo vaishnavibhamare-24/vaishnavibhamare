@@ -7,10 +7,10 @@
 </p>
 
 ---
-<p align="center">
-  <h2>👋 Hi, I'm Vaishnavi</h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence+Engineer;Data+Engineer;AI%2FML+Engineer" />
-</p>
+<h2 align="center">
+  👋 Hi, I'm Vaishnavi 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=420&lines=Data+Analyst;BI+Engineer;Data+Engineer;AI%2FML+Engineer" />
+</h2>
 
 🎓 MS in Advanced Data Analytics @ University of North Texas (GPA: 4.0)  
 📊 Data Analyst | 📈 Business Intelligence | 🤖 AI/ML Enthusiast  
