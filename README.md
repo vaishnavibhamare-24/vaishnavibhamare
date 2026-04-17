@@ -8,9 +8,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Vaishnavi;Data+Analyst;Business+Intelligence+Engineer;Data+Engineer;AI%2FML+Engineer&color=00C9FF,FF5733,28B463,8E44AD,F1C40F" />
-</p>
+<h2 align="center">
+  👋 Hi, I'm Vaishnavi 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=400&lines=Data+Analyst;BI+Engineer;Data+Engineer;AI%2FML+Engineer" />
+</h2>
 
 🎓 MS in Advanced Data Analytics @ University of North Texas (GPA: 4.0)  
 📊 Data Analyst | 📈 Business Intelligence | 🤖 AI/ML Enthusiast  
