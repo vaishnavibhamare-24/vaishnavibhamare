@@ -8,7 +8,7 @@
 
 ---
 
-###👋 Hi, I'm Vaishnavi 
+<h2 align="center">👋 Hi, I'm Vaishnavi</h2>
   
 🎓 MS in Advanced Data Analytics @ University of North Texas (GPA: 4.0)  
 📊 Data Analyst | 📈 Business Intelligence | 🤖 AI/ML Enthusiast  
