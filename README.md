@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=220&section=header&text=Vaishnavi%20Govind%20Bhamare&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:5B86E5&height=250&section=header&text=Vaishnavi%20Govind%20Bhamare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <h2 align="center">👋 Hi, I'm Vaishnavi</h2>
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36D1DC&size=20&center=true&vCenter=true&width=500&lines=Building+Data-Driven+Solutions;Open+to+Full-Time+Roles;Passionate+about+Analytics+%26+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=20&center=true&vCenter=true&width=500&lines=Building+Data-Driven+Solutions;Open+to+Full-Time+Roles;Passionate+about+Analytics+%26+AI" />
 </p>
 
 ---
@@ -17,11 +17,10 @@
 ## ✨ About Me  
 
 🎓 MS in Advanced Data Analytics @ University of North Texas (GPA: 4.0)  
-💡 3+ years of experience turning data into insights & intelligent solutions  
-🚀 Passionate about analytics, scalable systems, and AI  
+💡 3+ years of experience transforming data into actionable insights and intelligent solutions  
+🚀 Passionate about analytics, scalable data systems, and AI  
 📍 Texas, USA | Open to relocation  
 
----
 ---
 
 ## 💼 Experience  
@@ -29,45 +28,46 @@
 ### 🔹 Research Assistant  
 **University of North Texas, Texas, USA**  
 📅 Jan 2025 – Present  
-- Analyzed large-scale simulation datasets to evaluate system performance, identify inefficiencies, and deliver actionable insights for data-driven decision-making  
-- Built and optimized SQL queries and Python workflows for data extraction, transformation, and validation across multi-source datasets  
-- Defined KPIs and collaborated with stakeholders to translate business requirements into analytical solutions  
+- Analyzed large-scale simulation datasets to evaluate system performance and deliver actionable insights  
+- Built optimized SQL + Python workflows for ETL and data validation  
+- Defined KPIs and translated business requirements into analytical solutions  
 
 ---
 
 ### 🔹 Teaching Assistant  
 **University of North Texas, Texas, USA**  
 📅 Aug 2024 – Present  
-- Assisted in teaching and mentoring students in data analytics concepts and tools  
-- Supported assignment design, grading, and student queries to improve learning outcomes  
-- Guided students in applying analytics techniques to real-world problems  
+- Mentored students in data analytics concepts and tools  
+- Supported assignments, grading, and real-world problem-solving  
 
 ---
 
 ### 🔹 Data Analyst  
 **Capgemini, India**  
 📅 Aug 2023 – Jul 2024  
-- Delivered insight-driven analysis on 120K+ records, improving decision turnaround time by 25%  
-- Designed Power BI dashboards with drill-through and KPI tracking, reducing reporting dependency by 35%  
-- Optimized SQL queries and improved data retrieval performance by 30%  
+- Analyzed 120K+ records → improved decision turnaround by 25%  
+- Built Power BI dashboards → reduced reporting dependency by 35%  
+- Optimized SQL queries → improved performance by 30%  
 
 ---
 
 ### 🔹 Data Analytics Intern  
 **Tata Power, India**  
 📅 Feb 2023 – Jul 2023  
-- Built automated data pipelines using Python and SQL, improving processing speed by 60%  
-- Applied anomaly detection techniques for early issue identification in energy systems  
-- Conducted statistical analysis for predictive maintenance and load optimization  
+- Built automated pipelines (Python + SQL) → 60% faster processing  
+- Applied anomaly detection for energy systems  
+- Conducted statistical analysis for predictive maintenance  
 
 ---
 
 ### 🔹 Analytics Intern  
-**Center of Excellence Lab, VJTI, India**  
+**COE Lab, VJTI, India**  
 📅 May 2022 – Jan 2023  
-- Processed and analyzed 100K+ power grid simulation records for trend and scenario analysis  
-- Supported model evaluation to assess outage risk and performance patterns  
-- Improved preprocessing workflows, increasing analysis efficiency by 40%  
+- Processed 100K+ simulation records for trend analysis  
+- Supported forecasting and model evaluation  
+- Improved preprocessing efficiency by 40%  
+
+---
 
 ## 🔗 Connect With Me  
 
@@ -83,33 +83,26 @@
 
 ### 📊 Data Analytics  
 <p>
-<img src="https://img.shields.io/badge/Data%20Analysis-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-64DD17?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistics-FF6D00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hypothesis%20Testing-AB47BC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-546E7A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KPI%20Development-2962FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-00E676?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-69F0AE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-FF9100?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI-2979FF?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 📈 Business Intelligence  
 <p>
-<img src="https://img.shields.io/badge/PowerBI-FBC02D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-E64A19?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dashboarding-2196F3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-00BCD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reporting-757575?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-FFD600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-FF6D00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboarding-00B0FF?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🤖 AI / ML & GenAI  
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Regression-2E7D32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Classification-D84315?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clustering-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1976D2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-3949AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-00ACC1?style=for-the-badge"/>
@@ -120,11 +113,9 @@
 
 ### ⚙️ Data Engineering  
 <p>
-<img src="https://img.shields.io/badge/ETL-455A64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-546E7A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Spark-E65100?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hadoop-FDD835?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-00796B?style=for-the-badge"/>
 </p>
 
 ---
@@ -133,19 +124,18 @@
 <p>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🎯 Core Strengths  
 
-- End-to-End Data Analytics (EDA → Insights → Reporting)  
-- BI & KPI Strategy (Dashboards, Metrics, Decision Support)  
-- SQL & Data Engineering (ETL, Optimization, Modeling)  
-- Applied ML & Analytical Modeling  
-- Generative AI & Intelligent Systems (LLMs, RAG, Agents)  
-- Strong Problem Solving & Stakeholder Communication  
+- End-to-End Data Analytics  
+- BI & KPI Strategy  
+- SQL & Data Engineering  
+- Applied Machine Learning  
+- Generative AI (LLMs, RAG, Agents)  
+- Strong Problem Solving  
 
 ---
 
@@ -155,12 +145,12 @@
 
 ---
 
-## 💡 Fun Touch  
+## 💡 Profile Views  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaishnavibhamare&label=Profile%20Views&color=36D1DC&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vaishnavibhamare&label=Profile%20Views&color=00C9FF&style=flat" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:00C9FF&height=120&section=footer"/>
